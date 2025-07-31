@@ -1,7 +1,13 @@
 body{
 	background-color: #fefbea;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 h1 {
 	font-family: Garamond;
+}
+
+p {
+	font-family: Times New Roman; 
 }
